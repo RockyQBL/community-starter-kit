@@ -36,3 +36,6 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
+-[] Double clink on the installation package
+-[] sign up your account
+-[] Fill in the basic information
