@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+-[] Practice using github
+-[] Learn using MarkDown
+-[] Practice English
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-[] pass
+-[] pass
+-[] pass
 
 ## Getting started
 
